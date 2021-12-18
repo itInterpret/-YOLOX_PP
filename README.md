@@ -1,2 +1,2 @@
 # YOLOX_PP
-The implementation of YOOX on the paddle paddle framework.
+The implementation of YOLOX on the paddle paddle framework.
